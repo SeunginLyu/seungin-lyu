@@ -12,4 +12,4 @@ fields:
   label: upload
   name: upload
 pages:
-- _posts/hello-world.md
+- _posts/2018-09-06-hello-world.md
