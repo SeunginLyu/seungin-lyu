@@ -14,3 +14,5 @@ fields:
 - type: textarea
   label: content
   name: content
+pages:
+- _posts/hello-world.md
