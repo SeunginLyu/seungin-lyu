@@ -11,8 +11,5 @@ fields:
 - type: image_gallery
   label: upload
   name: upload
-- type: textarea
-  label: content
-  name: content
 pages:
 - _posts/hello-world.md
