@@ -2,6 +2,14 @@
 @import "lib/fontawesome";
 @import "lib/devicon";
 
+
+// blog
+@import 'variables';
+@import 'layout';
+@import 'pagination';
+@import 'posts';
+@import 'masthead';
+
 // portfolio(home)
 @import 'base';
 @import 'vars';
@@ -10,10 +18,3 @@
 @import 'about';
 @import 'projects';
 @import 'footer';
-
-// blog
-@import 'variables';
-@import 'pagination';
-@import 'posts';
-@import 'layout';
-@import 'masthead';
