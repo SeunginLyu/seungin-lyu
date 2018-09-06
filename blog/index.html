@@ -5,7 +5,7 @@ title: Blog
 {% for post in paginator.posts %}
   <h1>{{ post.title }}</h1>
   <p class="author">
-    <span class="date">{{ post.date }}</span>
+    <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
   </p>
   <div class="content">
     {{ post.content }}
