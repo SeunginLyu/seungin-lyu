@@ -3,11 +3,16 @@ title: Home
 description: A blog about lorem ipsum dolor sit amet
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "https://seungin-lyu.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
-
+paginate: 3
+paginate_path: "/blog/page:num/"
 # User settings
 username: Seungin Lyu
 user_description: I am a software engineer with a substantial interest in design, community technology, and data science. When I'm not coding, I enjoy making coffee for myself and friends, playing tennis, watching baseball games and taking photos!
 
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
 
 # Google-analytics
 google-analytics:
