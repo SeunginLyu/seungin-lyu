@@ -1,0 +1,15 @@
+---
+label: Blog
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+  config:
+    required: true
+- type: image_gallery
+  label: upload
+  name: upload
+pages:
+- _posts/2018-09-06-hello-world.md
