@@ -12,4 +12,5 @@ fields:
   label: upload
   name: upload
 pages:
+- _posts/2018-09-07-thoughts-on-bad-writer-by-michael-mohammed-ahmad.md
 - _posts/2018-09-06-hello-world.md
