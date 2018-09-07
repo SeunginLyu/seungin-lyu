@@ -8,9 +8,13 @@ fields:
   name: title
   config:
     required: true
-- type: image_gallery
-  label: upload
-  name: upload
+- type: text
+  name: layout
+  label: layout
+  default: post
+  hidden: true
+  config:
+    required: true
 pages:
 - _posts/2018-09-07-thoughts-on-bad-writer-by-michael-mohammed-ahmad.md
 - _posts/2018-09-06-hello-world.md
