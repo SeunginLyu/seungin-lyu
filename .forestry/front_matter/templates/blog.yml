@@ -20,7 +20,6 @@ fields:
   name: comments
   hidden: false
 pages:
-- _posts/lego-style-metro-map-of-busan-south-korea.md
 - _posts/2018-09-07-agent-based-simulation-of-state-formation-and-wars.md
 - _posts/2018-09-07-simulation-of-epidemic-spreading-in-scale-free-networks.md
 - _posts/2018-09-07-resolve-the-merge-conflicts-of-your-team.md
