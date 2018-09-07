@@ -1,5 +1,22 @@
-<article class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
-  {{ content }}
-</article>
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <div class="container content">
+      {% include header_blog.html %}
+      <main>
+        <h1>{{ page.title }}</h1>
+          <p class="author">
+            <span class="date">{{ page.date | date: '%B %d, %Y' }}</span>
+          </p>
+        </a>
+        <div class="content">
+          {{ page.content }}
+        </div>
+        {% if page.comments %}
+          {% include disqus.html %}
+        {% endif %}
+      </main>
+      {% include footer_blog.html %}
+    </div>
+  </body>
