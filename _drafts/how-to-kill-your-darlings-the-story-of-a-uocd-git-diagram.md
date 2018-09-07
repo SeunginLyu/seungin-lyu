@@ -1,0 +1,6 @@
+---
+title: 'HOW TO KILL YOUR DARLINGS? : THE STORY OF A UOCD GIT DIAGRAM'
+layout: post
+date: 2018-09-07 18:17:42 +0000
+
+---
