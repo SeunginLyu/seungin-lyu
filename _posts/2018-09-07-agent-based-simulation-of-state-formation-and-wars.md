@@ -5,8 +5,7 @@ date: 2018-09-07 18:22:00 +0000
 comments: true
 
 ---
-
-#### Nick Steelman and Seungin Lyu
+This post is part of a report I wrote for Complexity Science course offered by Professor Allen Downey at Olin College of Engineering. Full report is available here on [Github.](https://github.com/CleanestMink126/Power-Laws-and-Wars/blob/master/reports/final_report.md)
 
 ### Abstract
 
