@@ -13,3 +13,14 @@
 .blog-footer {
   margin-bottom: 2rem;
 }
+
+$a-tags: 'a, a:active, a:hover, a:visited';
+$a-tags-hover: 'a:active, a:hover';
+
+#{$a-tags} {
+  color: $brown;
+  text-decoration: none;
+}
+#{$a-tags-hover} {
+  color: $gray-5;
+}
