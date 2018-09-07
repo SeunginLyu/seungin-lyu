@@ -20,6 +20,6 @@ fields:
   name: comments
   hidden: false
 pages:
-- _posts/lesson-learned-go-hunt-discrepancies-by-digging-deeper.md
+- _posts/2018-09-07-lesson-learned-go-hunt-discrepancies-by-digging-deeper.md
 - _posts/2018-09-07-thoughts-on-bad-writer-by-michael-mohammed-ahmad.md
 - _posts/2018-09-06-hello-world.md
