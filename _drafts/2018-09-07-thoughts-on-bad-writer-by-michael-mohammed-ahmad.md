@@ -10,7 +10,7 @@ upload: []
 
 In [Bad Writer](https://sydneyreviewofbooks.com/bad-writer/), Michael Mohammed Ahmad, an Australian-born Lebanese writer residing in Sydney, vividly reproduces a series of his past encounters with "bad writers". 
 
-While listing these somewhat offensive anecdotes, he stresses that _"creative writing is subjective"._ He points out that many bad writers have a fundamental misunderstanding of what it means to produce subjective writing. He argues that being subjective is not an excuse to produce bad writings and deny any external input or critique. He specifically criticizes the implicit mindset of these bad writers that no reader has the rights to objectively raise concerns or express dissatisfaction with their work because their work is supposedly "subjective" and is therefore owned     
+While listing these uncomfortable anecdotes, he stresses that _"creative writing is subjective"._ He points out that many bad writers have a fundamental misunderstanding of what it means to produce subjective writing. He argues that being subjective is not an excuse to produce bad writings and deny any external input or critique. He specifically criticizes the implicit mindset of these bad writers that no reader has the rights to objectively raise concerns or express dissatisfaction with their work because their work is supposedly "subjective" and is therefore owned     
 
 Michael stresses tat subjectivity is only 
 
