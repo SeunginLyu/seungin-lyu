@@ -3,7 +3,7 @@ title: Home
 description: A blog about lorem ipsum dolor sit amet
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "https://seungin-lyu.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
-paginate: 3
+paginate: 1
 paginate_path: "/blog/page:num/"
 # User settings
 username: Seungin Lyu
