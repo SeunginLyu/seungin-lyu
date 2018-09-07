@@ -1,0 +1,6 @@
+---
+title: RESOLVE THE MERGE CONFLICTS OF YOUR TEAM
+layout: post
+date: 2018-09-07 18:18:57 +0000
+
+---
