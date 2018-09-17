@@ -1,5 +1,5 @@
 ---
-title: Forgot Your Password? (It's probably here)
+title: Forgot Your Password? (It's here)
 layout: post
 date: 2018-09-15 23:51:05 +0000
 comments: true
@@ -8,9 +8,14 @@ comments: true
 
 \- What is the piece trying to do or say?
 
+* archive of a past event
+
+
+* giant collection of the very personal words
+
 \- What about the piece appeals to you?
 
-style, 
+style: white color, whitespace, contrast, whollyness
 
 object with intention, a question itself evident in the title
 
