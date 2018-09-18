@@ -17,7 +17,7 @@ What makes the message even more effective is the cold, monotonous, static, blac
 
 I love the fact that this piece naturally leads to a series of interesting questions to think about.
 
-* "Are my passwords in these books?" (And the fact that you won't get an answer to this question by typing your passwords into a magic search bar but actually need to put some efforts of turning the pages is mind-blowing when everything is searchable with Google and Ctrl-F these days)
+* "Are my passwords in these books?" (And the fact that you won't get an answer to this question by typing your passwords into a magic search bar but actually need to put some efforts to turn the pages is mind-blowing when everything is searchable with Google and Ctrl-F these days)
 * "Do people put their names or the names of their beloved people in passwords?"
 * "What do passwords mean to different people? Are they just random sequences of random words? Or do they bear a significant in our lives?"
 
