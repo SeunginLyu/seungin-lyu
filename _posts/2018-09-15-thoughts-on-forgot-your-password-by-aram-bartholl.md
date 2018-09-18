@@ -23,8 +23,8 @@ I love the fact that this piece naturally leads to a series of interesting quest
 
 Nonetheless, this art piece doesn't provide any good pragmatic solution to the issue that is being touched by the author. The message and the intention of the author are rather unclear and are only partially guessable.
 
-Like what should I do if I find my passwords in this book?  
-What should I do to protect myself from such cybersecurity threats?
+"What should I do if I find my passwords in this book?"  
+"What should I do to protect myself from such cybersecurity threats?"
 
 I feel like the apathetic tone of the author does not stand strong from this practical perspective.
 
