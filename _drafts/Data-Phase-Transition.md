@@ -17,7 +17,17 @@ By going through _Representation and the Necessity of Interpretation_ by Laura K
 
 I see data as **frozen snippets of encrypted human stories**. 
 
-They are encrypted because often times there are hidden secrets that are impossible to be discovered unless we are "provided" the keys to unveil them. 
+They are **encrypted** because often times there are hidden secrets that are impossible to be discovered unless we are "provided" the keys to unveil them. The encrypted secretes include :
+
+* Who/what collected the data?
+* Who chose to produce the data?
+* When and where was the data captured?
+
+While the general public indulges in the wide availability of open data nowadays (i.e Google Earth photos, Wikipedia, etc.), we should still remark that these datasets seldom come packaged with the secrets and stories of their origins. It is actually trivial that unique stories should exist behind all datasets because real "people" have taken efforts to create them. Nonetheless, unless we go actively hunt for the keys to these datasets (that might not even exist), we are still left with partially encrypted datasets that are subject to subjective inferences based on the relatively small portion of the story that has been decrypted for us. 
+
+Thus it is no surprise that people propose a wide spectrum of interpretations given the same datasets. Provided limited knowledge, the directions of these interpretations are inevitably biased with individual prior knowledge, and we should acknowledge that the "trustworthiness" of such inferences are applicable only within the  
+
+Moreover, I call data **frozen snippets** because we only see the frozen phase of data which in fact goes through phase transitions. 
 
   
 If all data is interpreted, as Kurgan (and some of you) say, what are datasets really tell us? How do we know when and how we can trust a dataset, and is there a standard rule for this?
