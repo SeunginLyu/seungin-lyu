@@ -9,7 +9,7 @@ comments: false
 * Contextual collections of things
 * Translation of the world into human-defined objects
 
-Today, we are surrounded by an unprecedented mass of data, yet people still have distinctively varying views on what "data" exactly means. This above list is my attempt to come up with a reasonable description of what data is, but I'm sure there are million other ways to explain it differently. 
+Today, we are surrounded by an unprecedented mass of data, yet people still have distinctively varying views on what "data" exactly means. The above list is an attempt of mine to come up with a reasonable description of what data is, but I'm sure there are million other ways to explain it differently. 
 
 By going through _Representation and the Necessity of Interpretation_ by Laura Kurgan and _Objectivity_ by Lorraine Daston, Peter Galison, I developed a mental model of data that somewhat weaves together the complexities of data such as objective truth, subjective interpretations and etc.
 
@@ -27,4 +27,6 @@ Thus, it is no surprise that people propose a wide spectrum of interpretations g
 
 Moreover, I call data **frozen snippets** because we only see the frozen phase of data which in fact goes through many phase transitions. 
 
-I imagine there is a big-bang phase for data collection when somebody decides to initiate a dataset. Then there is the condensation phase in which a stream of phenomena and events pile up. Next follows the freezing phase when the collector of the data decides to archive a moment of the piled-up representation of the world. 
+I imagine there is a big-bang phase for data collection when somebody decides to initiate a dataset. Next is the condensation phase in which a stream of phenomena and events pile up. Then in the freezing phase, the collector of data freezes a moment of the piled-up representation of the world. Lastly in the melting phase, the data is disassembled into various interpretations and applications by external forces. While people can claim many things (that might be true) about the different phases of a dataset, unfortunately there is no way to validate such claim unless we are provided with sufficient background information on each of these data phases. 
+
+I feel like my metaphors have gone a little too far by this point, but thinking data as a process and a flowing of interesting stories does certainly help better understand the complexities surrounding data.
