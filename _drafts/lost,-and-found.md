@@ -7,6 +7,8 @@ comments: true
 ---
 I work at Olin College Library, a magical space where creativity and collaboration is encouraged. If you are shocked by this seemingly paradoxical description of a library, I recommend checking out our [website](http://library.olin.edu/)! (but this post isn't really about the library).
 
-We occasionally send out HelpYou emails to remind people that there are "interesting stuff" in the lost and found cabinet located right next to the library entrance. You would think that most of these lost items would find home shortly after the email is sent out, but in reality, I see the same sets of items over and over again. Apparently, we need a better medium to deliver this information to whoever might be relevant. Along with inspirations from _Forgot Your Password_ by Aram Bartholl (and [here](https://seungin-lyu.com/2018/09/15/thoughts-on-forgot-your-password-by-aram-bartholl.html) is a link to my thoughts on the piece), 
+We occasionally send out HelpYou emails to remind people that there are "interesting stuff" in the lost and found cabinet located right next to the library entrance. You would think that most of these lost items would find home shortly after the email is sent out, but in reality, I see the same sets of items over and over again. 
+
+Apparently, we need a better medium to deliver this information to whoever might be relevant. With inspirations from [_Forgot Your Password_](https://arambartholl.com/forgot-your-password/) by Aram Bartholl ([here](https://seungin-lyu.com/2018/09/15/thoughts-on-forgot-your-password-by-aram-bartholl.html) is my previous blog post on the piece), I created _Lost, and Found?,_ a photo book of individual items from the lost and found cabinet in September, 2018. 
 
 ![](/uploads/IMG_3413.jpg)
