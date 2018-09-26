@@ -25,8 +25,6 @@ While the general public indulges in the wide availability of open data nowadays
 
 Thus, it is no surprise that people propose a wide spectrum of interpretations given the same datasets. Provided limited knowledge, the directions of these interpretations are inevitably biased with individual prior knowledge, and we should acknowledge that the "trustworthiness" of such inferences are applicable only within the systems that provided the rules and standards to form such inferences. For example, a Bayesian thinker would argue that the p-values calculated from a frequentist point view are not trustworthy, but the frequentists would argue the other way around. 
 
-Moreover, I call data **frozen snippets** because we only see the frozen phase of data which in fact goes through phase transitions.
+Moreover, I call data **frozen snippets** because we only see the frozen phase of data which in fact goes through many phase transitions. 
 
-1.  Objectify Phase
-2. 
-3.  
+I imagine there is a big-bang phase for data collection when somebody decides to initiate a dataset. Then there is the condensation phase in which a stream of phenomena and events pile up. Next follows the freezing phase when the collector of the data decides to archive a moment of the piled-up representation of the world. 
