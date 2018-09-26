@@ -13,9 +13,9 @@ Today, we are surrounded by an unprecedented mass of data, yet people still have
 
 > "What is data, like, what is it?"
 
-By going through _Representation and the Necessity of Interpretation_ by Laura Kurgan and _Objectivity_ by Lorraine Daston,Peter Galison, I developed a mental model of data that explains why the concept of data still feels cloudy and somewhat vague.
+By going through _Representation and the Necessity of Interpretation_ by Laura Kurgan and _Objectivity_ by Lorraine Daston,Peter Galison, I developed a mental model of data that somewhat weaves together the complexities of data such as objectivity, standards, interpretations and etc.
 
-I see data as frozen snippets of encrypted human stories. 
+I see data as **frozen snippets of encrypted human stories**. 
 
 They are encrypted because often times there are hidden secrets that are impossible to be discovered unless we are "provided" the keys to unveil them. 
 
