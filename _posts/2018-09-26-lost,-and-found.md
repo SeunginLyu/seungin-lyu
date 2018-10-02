@@ -20,3 +20,24 @@ We occasionally send out HelpYou emails to remind the community of the "interest
 ![](/uploads/IMG_3413.jpg)
 
 Apparently, we need a better medium to deliver this information to whoever might be relevant. With inspirations from [_Forgot Your Password_](https://arambartholl.com/forgot-your-password/) by Aram Bartholl ([here](https://seungin-lyu.com/2018/09/15/thoughts-on-forgot-your-password-by-aram-bartholl.html) is my previous blog post on the piece), I created "_Lost, and Found?",_ a photo book of individual items from the lost and found cabinet in September, 2018.
+
+To DOs;
+
+* how did you think about how to approach doing this?
+* What did you end up with as a final piece?
+* In which ways is your piece different from the original
+* and which aspects were you focused on changing or replicating?
+
+Some Notes
+
+\- Text? Black and White Images? vs HelpMe Emails
+
+\- Text -> Image?
+
+\- forgotten -> collected (by me)-> reborn
+
+\- maybe a little bit of ambiguity so people can’t just figure out what exactly the item is before they actually come check things out?
+
+\- This is not really a leak of personal information, but how is this similar? (weak connection)
+
+\- cameras, clothes, very personal objects
