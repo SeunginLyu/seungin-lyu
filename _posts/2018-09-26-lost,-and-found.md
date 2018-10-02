@@ -11,8 +11,8 @@ comments: false
 > 2018  
 > Photo Book, 46 Items  
 > E-Book (Prints available)
-
-[View PDF](https://seungin-lyu.com/uploads/lost_and_found.pdf)
+>
+> [View PDF](https://seungin-lyu.com/uploads/lost_and_found.pdf)
 
 ***
 
