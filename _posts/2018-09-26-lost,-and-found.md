@@ -25,13 +25,8 @@ When I was told to do a project similar to [_Forgot Your Password_](https://aram
 
 In response to a series of other questions that followed, I created "_Lost, and Found?",_ a black-and-white photo catalog of 46 lost items from Olin College Library. It is an homage of _Forgot Your Password?,_ but it is also my attempt to archive a unique moment of the library, the physical space, the community, and the people.
 
-Unlike the original art work, I chose to go with a series of photos and not with a list of texts. I did so because the scale, in terms of numbers, of the lost items from the library was simply not comparable to that of the password from the LinkedIn incident. Additionally, I felt like a description of a lost item would be significantly less interesting than the passwords. While passwords inherently manifest themselves with unique personalities and characters, descriptions of things simply don't go as deep in terms of implications. That's why I ended up with images, to capture the vibrant spectrum and the diversity of items that I have unearthed from the library, including but not limited to: water bottle, camera, ski goggle, baseball glove, breadboard, and etc.
+Unlike the original work, I chose to go with a series of photos and not with a list of texts. I did so because the scale (46 items) of the lost items from the library was simply not comparable to that of the password( from the LinkedIn incident. Additionally, I felt like a description of a lost item would be significantly less interesting than the passwords. While passwords inherently manifest themselves with unique personalities and characters, descriptions of things simply don't go as deep in terms of implications. That's why I ended up with images, to capture the vibrant spectrum and the diversity of items that I have unearthed from the library, including but not limited to: water bottle, camera, ski goggle, baseball glove, breadboard, and etc.
 
-Nonetheless, I adopted ideas that inspired me substantially.
+Nonetheless, I definitely adopted some ideas from the original piece that inspired me substantially. The title, "Lost, and Found?" is one of them. These items were lost, were found by some people, but did they really, actually, find home? Another one is the black-and-white style with an attempt to project the absence of my personal thoughts. The medium, too, was intentionally chosen to be a tangible catalog, perhaps to present a little bit of ambiguity so people can’t just figure out what exactly the items are before they open the catalog with curiosity to check them out.
 
-* Title
-  * 
-* Style
-  * Black-and-White
-* Medium
-  * maybe a little bit of ambiguity so people can’t just figure out what exactly the item is before they actually come check things out?
+p.s. Please visit the library and claim your items if any of the items happens to be yours!
