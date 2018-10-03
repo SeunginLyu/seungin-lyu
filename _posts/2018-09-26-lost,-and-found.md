@@ -27,10 +27,4 @@ In response to a series of other questions that followed, I created "_Lost, and 
 
 Unlike the original art work, I chose to go with a series of photos and not with a list of texts. I did so because the scale, in terms of numbers, of the lost items from the library was simply not comparable to that of the password from the LinkedIn incident. Additionally, I felt like a description of a lost item would be significantly less interesting than the passwords. While passwords inherently manifest themselves with unique personalities and characters, descriptions of things simply don't go as deep in terms of implications. That's why I ended up with images, to capture the vibrant spectrum and the diversity of items that I have unearthed from the library, including but not limited to: water bottle, camera, ski goggle, baseball glove, breadboard, and etc.
 
-To DOs;
-
-* What did you end up with as a final piece?
-* In which ways is your piece different from the original
-* and which aspects were you focused on changing or replicating?
-
-\- maybe a little bit of ambiguity so people can’t just figure out what exactly the item is before they actually come check things out?
+maybe a little bit of ambiguity so people can’t just figure out what exactly the item is before they actually come check things out?
