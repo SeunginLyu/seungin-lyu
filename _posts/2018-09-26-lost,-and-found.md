@@ -5,12 +5,12 @@ date: 2018-09-26 18:01:52 +0000
 comments: false
 
 ---
-![](/uploads/lost_and_found.png)
+![](/uploads/IMG_3421-1.png)![](/uploads/animated.gif)
 
-> Lost, and Found?  
-> 2018  
-> Photo Catalog, 46 Items
->
+Lost, and Found?  
+2018  
+Photo Catalog, 46 Items
+
 > [View PDF](https://seungin-lyu.com/uploads/lost_and_found.pdf)
 
 ***
@@ -21,7 +21,7 @@ I am a student worker at Olin College Library, a magical community space filled 
 
 We occasionally send out HelpYou emails to remind the community of the "interesting things" in the lost and found cabinet located right next to the library entrance. You would think that most of these lost items would find home shortly after the email is sent out, but in reality, I see the same sets of items over and over again. They are just forgotten after all.
 
-When I was told to do a project similar to [_Forgot Your Password_](https://arambartholl.com/forgot-your-password/)_?_ by Aram Bartholl, I felt deeply engaged by this notion of "presenting to an audience a contextual collection of forgotten (or lost) personal belongings". The X-Factor of _Forgot Your Password?,_ to me, was the manner in which the artist approached the audience. The title provokes the audience by softly implying that "your passwords might be here" which naturally leads to a deep dive contemplation of the meanings, implications of passwords and what it means to expose them to the public. I also paid attention to the unique medium the artist chose to use. why would an artist create 8 volumes of hard cover books only to archive a few gigabytes of password? 
+When I was told to do a project similar to [_Forgot Your Password_](https://arambartholl.com/forgot-your-password/)_?_ by Aram Bartholl, I felt deeply engaged by this notion of "presenting to an audience a contextual collection of forgotten (or lost) personal belongings". The X-Factor of _Forgot Your Password?,_ to me, was the manner in which the artist approached the audience. The title provokes the audience by softly implying that "your passwords might be here" which naturally leads to a deep dive contemplation of the meanings, implications of passwords and what it means to expose them to the public. I also paid attention to the unique medium the artist chose to use. why would an artist create 8 volumes of hard cover books only to archive a few gigabytes of password?
 
 In response to a series of other questions that followed, I created "_Lost, and Found?",_ a black-and-white photo catalog of 46 lost items from Olin College Library. It is an homage of _Forgot Your Password?,_ but it is also my attempt to archive a unique moment of the library, the physical space, the community, and the people.
 
