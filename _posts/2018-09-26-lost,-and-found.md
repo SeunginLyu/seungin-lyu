@@ -7,7 +7,9 @@ comments: false
 ---
 ![](/uploads/IMG_3421-1.png)
 
-![](/uploads/animated.gif)![](/uploads/woosh.gif)
+![](/uploads/woosh.gif)
+
+![](/uploads/animated.gif)
 
 Lost, and Found?  
 2018  
