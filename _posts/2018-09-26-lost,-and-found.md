@@ -9,8 +9,7 @@ comments: false
 
 > Lost, and Found?  
 > 2018  
-> Photo Book, 46 Items  
-> E-Book (Prints available)
+> Photo Catalog, 46 Items
 >
 > [View PDF](https://seungin-lyu.com/uploads/lost_and_found.pdf)
 
@@ -24,7 +23,9 @@ We occasionally send out HelpYou emails to remind the community of the "interest
 
 ![](/uploads/IMG_3413.jpg)
 
-Apparently, we need a better medium to deliver this information to whoever might be relevant. With inspirations from [_Forgot Your Password_](https://arambartholl.com/forgot-your-password/) by Aram Bartholl ([here](https://seungin-lyu.com/2018/09/15/thoughts-on-forgot-your-password-by-aram-bartholl.html) is my previous blog post on the piece), I created "_Lost, and Found?",_ a photo book of individual items from the lost and found cabinet in September, 2018.
+When I was told to do a project that is in a context similar to that of [_Forgot Your Password_](https://arambartholl.com/forgot-your-password/)_?_ by Aram Bartholl, I felt deeply engaged by this notion of "presenting to an audience a contextual collection of forgotten (or lost) personal belongings". The X-Factor of _Forgot Your Password?,_ to me, was the manner in which the artist approached the audience. The title provokes the audience by softly implying that "your pass words might be here". I 
+
+I created "_Lost, and Found?",_ a photo catalog of individual items from the lost and found cabinet in September, 2018.
 
 To DOs;
 
