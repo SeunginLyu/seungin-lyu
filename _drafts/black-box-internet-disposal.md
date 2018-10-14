@@ -9,4 +9,6 @@ comments: false
 
 According to Wikipedia, "_a **black box** is a device, system or object which can be viewed in terms of its inputs and outputs without any knowledge of its internal workings_."
 
-In Maciej Cegłowski talk "_The Internet With A Human Face",_ he classified
+In Maciej Cegłowski talk "_The Internet With A Human Face",_ he categorized big collections of personal data as "radioactive waste" after explaining about the ridiculous amount of effort, time and money required to destroy and erase them completely. He called out human hubris and fear for being the driving force behinds the efforts to collect and generate such collections. 
+
+I found it interesting that 
