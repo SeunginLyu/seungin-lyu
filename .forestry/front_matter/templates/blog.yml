@@ -20,7 +20,7 @@ fields:
   name: comments
   hidden: false
 pages:
-- _posts/project-thoughts.md
+- _posts/2018-10-24-project-thoughts.md
 - _posts/2018-10-14-black-box-internet-disposal.md
 - _posts/2018-09-26-Data-Phase-Transition.md
 - _posts/2018-09-26-lost,-and-found.md
