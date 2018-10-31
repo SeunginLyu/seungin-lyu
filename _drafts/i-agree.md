@@ -2,5 +2,43 @@
 title: I Agree?
 layout: post
 date: 2018-10-31 00:09:05 +0000
+comments: true
 
 ---
+**The Idea**
+
+We wanted to provide people with an experience to “rethink” about how we’ve been using the internet. In our daily lives, we constantly interact with numerous services on the internet to communicate, to entertain, and to gain information. In the process, we are inundated by the stream of targeted advertisements that serve as the revenue stream for most of these services. We noticed that these advertisements are the contents that such vendors desperately want us to consume. However, we also noticed that there exists information that these vendors DON’T want us to pay that much attention to, mainly, the terms and conditions. So our idea was to guide people into paying more attention to each individual term that they probably have already agreed to in the past and to raise people’s awareness on what they’ve been agreeing to without much caution necessarily. Simply put, it’s the reversal of things that the vendors on the internet WANT us to pay attention vs. things they DON’T WANT us to pay attention.
+
+**Why did we do it?** 
+
+We noticed an asymmetry of information between the service providers and the users. Most users aren’t aware of the things they have given away to benefit from these services, unlike the service providers who have the full control over the deal. Most users don’t even recognize that their interactions with the providers are trades, just like buying an apple from the grocery store. We wanted to warn people about this supposedly opaque process and shock them with the reality.
+
+**How did we do it?**
+
+When we built this piece we were inspired by _Friendfracker_, a work by Rafael Lozano-Hemmer. This artist’s work functions by deleting a random selection of Facebook friends for the user’s account. By taking this shocking idea, we built a website that pretends to delete accounts to the user’s online services based on their agreement to various conditions of use.
+
+  
+We were able to compile the list of terms and conditions and their relevance to each service by reading each of the 16 services’ user agreements and by using the helpful website, _Terms of Service; Didn’t Read_(tosdr.com). 
+
+Our actual work was built as a GitHub Pages site. Using the data sourced from the various user agreements we created a 10 question survey using HTML and JavaScript.
+
+**So What?** 
+
+Our final piece takes the form of a single page website. The site presents the viewer with 10 conditions that appear in the user agreements of different services. Our piece asks the audience to agree or disagree with each condition. 
+
+If the user disagrees, then the services that require this condition are shown. Inspired by Friendfracker, the site will pretend to delete the user’s accounts for those services. By answering each question the user engages with the terms that they have most likely passively agreed to many times. But shown in this new way hopefully they consider their choice more before clicking “Agree”. 
+
+The piece concludes with a grid of the 16 services that we sourced these conditions from. Based on all of the user’s agreements and disagreements, the piece highlights which services align with their those permissions. This lets the viewer see the results of their choices and make a decision about what action they would like to take moving forward.
+
+![](https://lh5.googleusercontent.com/0USAy4yF9uGanlO3my0tS4jdxLT5SBKi4SL-0J1gS2UOIbvSMV_S0gjZS_QLkTX3YrcezC7WY-XmBSvPoIkv0oq5QdoPtNRcXRh3JInBk0qER36fgZLWXA2gzTckyWHIK0BkD2RK =624x467)
+
+**What did we learn?**
+
+It’s a difficult problem for companies to write these terms of service agreements and privacy policies. On one hand they need to ensure they have legal protection in the event of a dispute, but on the other hand some companies are trying to be more open and conservative with the conditions they ask us to agree to. Finally, the draw of personalized ads pushes companies to ask for more and more personal information. Balancing these tensions is a difficult task.
+
+We also saw that the internet is not for everyone. Children 13 and under in many cases are not legally allowed to use online services. Due to laws such as the Children's Online Privacy Protection Act, companies have to be more careful about not collecting personal information from children. These days collecting personal information is the default for many services. Instead of implementing ways to stop collection for young users, services have instead chose to simply disallow children from becoming users.
+
+References:
+
+* Friendfracker ([http://www.lozano-hemmer.com/friendfracker.php](http://www.lozano-hemmer.com/friendfracker.php "http://www.lozano-hemmer.com/friendfracker.php"))
+* Terms of Services; Didn’t Read ([https://tosdr.org/about.html](https://tosdr.org/about.html "https://tosdr.org/about.html"))
