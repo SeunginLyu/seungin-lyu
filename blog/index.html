@@ -16,7 +16,7 @@ title: Blog
       {% if image contains 'src' %}
           {% if foundImage == 0 %}
               {% assign html = image | split:"/>" | first %}
-              <img class="preview" {{ html }} />
+              <img style="max-width:100%" class="preview" {{ html }} />
               {% assign foundImage = 1 %}
           {% endif %}
       {% endif %}
