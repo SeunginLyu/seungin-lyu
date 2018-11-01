@@ -10,6 +10,18 @@ title: Blog
     <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
   </p>
   <div class="content">
+    {% assign foundImage = 0 %}
+    {% assign images = post.content | split:"<img " %}
+    {% for image in images %}
+      {% if image contains 'src' %}
+          {% if foundImage == 0 %}
+              {% assign html = image | split:"/>" | first %}
+              <img class="preview" {{ html }} />
+              {% assign foundImage = 1 %}
+          {% endif %}
+      {% endif %}
+    {% endfor %}
+    <br>
     {{ post.content | strip_html | truncatewords:75}} <br><br>
     <a href="{{ post.url }}">Read more...</a><br><br>
   </div>
