@@ -32,7 +32,7 @@ The QR code is also a type of abstraction and a mapping of personal information 
 
 I feel motivated to dig deeper into this notion of creating identification from personal data and the subtle implications behind this idea.
 
-**Bookmarks** (for internet browsing) interests me because they form a unique collection of an individual's interests, history, and life style. I think of them as our web finger prints that might potentially serve as an identification when abstracted. They are even more interesting because they are super **private. (So the main challenge would be.. how do I collect people's bookmarks?)** So I did a little bit of hunch hunting.
+**Bookmarks** (for internet browsing) interest me because they form a unique collection of an individual's interests, history, and life style. I think of them as our web finger prints that might potentially serve as an identification when abstracted. They are even more interesting because they are super **private. (So the main challenge would be.. how do I collect people's bookmarks?)** So I did a little bit of hunch hunting.
 
 ![](/uploads/IMG_3596.png)
 
@@ -48,11 +48,16 @@ I arrived at a potential idea of converting raw bookmarks texts into Identicons,
 * [https://haacked.com/archive/2007/01/22/Identicons_as_Visual_Fingerprints.aspx/](https://haacked.com/archive/2007/01/22/Identicons_as_Visual_Fingerprints.aspx/ "https://haacked.com/archive/2007/01/22/Identicons_as_Visual_Fingerprints.aspx/")
 * [https://github.com/stewartlord/identicon.js/tree/master](https://github.com/stewartlord/identicon.js/tree/master "https://github.com/stewartlord/identicon.js/tree/master")
 
-While I'm left with a lot more exploration to further dive into this topic, I love the combination of bookmarks and Identicons!
+While I'm left with a lot more exploration to further dive into this topic, I'm looking forward to transformation of bookmarks to Identicons!
 
-Further things to think about :
+![](http://media.rehansaeed.com/rehansaeed/2014/11/Favicons.png)
+
+![](https://cdn-images-1.medium.com/max/2000/1*kRmQXPKUTi9fOzWQViOozQ.png)I'm looking for teammates and please shoot me an email (slyu@olin.edu) if you are interested in this idea!
+
+**Further things to think about** :
 
 * What algorithm am I going to use as the "hash" function?
 * What form of bookmarks data am I going to use? (Favicon images, bookmarks html export, raw texts, titles)
+* What context and form should I provide to the audience?
 * What style makes sense?
 * How am I going to gather bookmark data? (Survey? Ask friends? Helpme email?)
