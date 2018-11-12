@@ -49,3 +49,10 @@ I arrived at a potential idea of converting raw bookmarks texts into Identicons,
 * [https://github.com/stewartlord/identicon.js/tree/master](https://github.com/stewartlord/identicon.js/tree/master "https://github.com/stewartlord/identicon.js/tree/master")
 
 While I'm left with a lot more exploration to further dive into this topic, I love the combination of bookmarks and Identicons!
+
+Further things to think about :
+
+* What algorithm am I going to use as the "hash" function?
+* What form of bookmarks data am I going to use? (Favicon images, bookmarks html export, raw texts, titles)
+* What style makes sense?
+* How am I going to gather bookmark data? (Survey? Ask friends? Helpme email?)
