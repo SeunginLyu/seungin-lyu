@@ -20,7 +20,7 @@ fields:
   name: comments
   hidden: false
 pages:
-- _posts/automation-and-representations.md
+- _posts/2018-11-12-automation-and-representations.md
 - _posts/2018-10-24-project-thoughts.md
 - _posts/2018-10-31-i-agree.md
 - _posts/2018-10-14-black-box-internet-disposal.md
