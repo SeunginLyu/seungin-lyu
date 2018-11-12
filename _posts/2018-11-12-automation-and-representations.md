@@ -17,12 +17,14 @@ If we think about China's all-seeing social credit score system, we could abstra
 
 For example,
 
-    Input : {behavior:"cheated in game",time:"09/10/18"},
-            {behavior:"harmed two neighbors",time:"09/10/18"},
-            {behavior:"earned $100",time:"09/10/18"},
-            {behavior:"protested against government",time:"09/10/18"},
-            {behavior:"destroyed public property",time:"09/10/18"},
-     Output : 123
+    Input : 
+    {behavior:"cheated in game",time:"09/10/18"},
+    {behavior:"harmed two neighbors",time:"09/10/18"},
+    {behavior:"earned $100",time:"09/10/18"},
+    {behavior:"protested against government",time:"09/10/18"},
+    {behavior:"destroyed public property",time:"09/10/18"},
+    
+    Output : 123
 
 So this is a mapping from a sequence of behaviors to a credit score. In the end, we are left with no details but with an abstraction of data that can't be reversed back to its original form. (X -> Y is possible, but Y->X is impossible even if we know the internal algorithm!)
 
