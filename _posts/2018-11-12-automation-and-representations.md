@@ -17,13 +17,11 @@ If we think about China's all-seeing social credit score system, we could abstra
 
 For example,
 
-    Input : {
-    			{behavior:"cheated in game",time:"09/10/18"}
-                {behavior:"harmed two neighbors",time:"09/10/18"}
-                {behavior:"earned $100",time:"09/10/18"}
-                {behavior:"protested against government",time:"09/10/18"}
-                {behavior:"destroyed public property",time:"09/10/18"}
-    		}
+    Input : {behavior:"cheated in game",time:"09/10/18"},
+            {behavior:"harmed two neighbors",time:"09/10/18"},
+            {behavior:"earned $100",time:"09/10/18"},
+            {behavior:"protested against government",time:"09/10/18"},
+            {behavior:"destroyed public property",time:"09/10/18"},
      Output : 123
 
 So this is a mapping from a sequence of behaviors to a credit score. In the end, we are left with no details but with an abstraction of data that can't be reversed back to its original form. (X -> Y is possible, but Y->X is impossible even if we know the internal algorithm!)
@@ -38,7 +36,7 @@ I feel motivated to dig deeper into this notion of creating identification from 
 
 I arrived at a potential idea of converting raw bookmarks texts into Identicons, just like the default profile image we see on services like Github and Wordpress. Below are some links to websites that I found helpful brainstorming ideas for bookmarks and Identicons.
 
-* [https://blog.github.com/2013-08-14-identicons/](https://blog.github.com/2013-08-14-identicons/ "Github Identicons") 
+* [https://blog.github.com/2013-08-14-identicons/](https://blog.github.com/2013-08-14-identicons/ "Github Identicons")
 * [https://barro.github.io/2018/02/avatars-identicons-and-hash-visualization/](https://barro.github.io/2018/02/avatars-identicons-and-hash-visualization/ "https://barro.github.io/2018/02/avatars-identicons-and-hash-visualization/")
 * [https://www.npmjs.com/package/identicon-github](https://www.npmjs.com/package/identicon-github "https://www.npmjs.com/package/identicon-github")
 * [https://blog.byndyusoft.com/generative-avatars-16bdb15f872d](https://blog.byndyusoft.com/generative-avatars-16bdb15f872d "https://blog.byndyusoft.com/generative-avatars-16bdb15f872d")
