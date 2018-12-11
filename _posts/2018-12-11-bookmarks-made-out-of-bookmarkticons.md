@@ -13,12 +13,11 @@ I came up with my own answers to these above questions by writing a python scrip
 
 1. Opens the html file
 2. Download favicons for each URL included in the bookmarks export (this takes about 3\~5 minutes)
-3. Select 64 favicons based on the name of the html file you provided  (seungin.html / seungin_lyu.html will generate diffrent looking images even with the exact same list of websites).
+3. Select 64 favicons based on the name of the html file you provided  (seungin.html / seungin_lyu.html will generate different looking images even with the exact same list of websites).
 4. 64 favicons get pasted next to each other into a square image, then the square image is pixelated.
 5. The final output is saved!
 
-For my final piece, I ended up crafting actual "book"marks. 🔖🔖 (with origami).  
-The most challenging part of this project was deciding on the "form" to in which to present these Bookmarticons. I was sold on this idea that popped-up in a feedback session. While this is a fun pun to play, I particularly felt in love with this specific form because it naturally enables me to share this concept of Bookmarkticons with my friends. I actually ended up giving one to my friend as a gift in return for his help with this project. It's also an interesting digital-to-analog transformation that always evokes subtle and strange emotions.
+For my final piece, I ended up crafting actual "book"marks 🔖🔖 (with origami). The most challenging part of this project was deciding on the "form" to in which to present these Bookmarticons. I was sold on this idea that popped-up in a feedback session. While this is a fun pun to play, I particularly felt in love with this specific form because it naturally enables me to share this concept of Bookmarkticons with my friends. I actually ended up giving one to my friend as a gift in return for his help with this project. It's also an interesting digital-to-analog transformation that always evokes subtle and strange emotions.
 
 I learned that iteration is the key to really solidifying a hunch into a concrete project, and outside perspectives are always helpful. I'm definetely going to revisit this project later to polish it and make it available for a broader group of people and potentially build a community around it! (But it's a lot of dev hours to invest, so I'm holding onto it for now).
 
