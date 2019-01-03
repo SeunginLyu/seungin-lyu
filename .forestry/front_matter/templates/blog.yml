@@ -20,20 +20,20 @@ fields:
   name: comments
   hidden: false
 pages:
+- _posts/2018-09-07-how-to-kill-your-darlings-the-story-of-a-uocd-git-diagram.md
+- _posts/2018-09-07-simulation-of-epidemic-spreading-in-scale-free-networks.md
+- _posts/2018-09-07-agent-based-simulation-of-state-formation-and-wars.md
+- _posts/2018-12-11-bookmarks-made-out-of-bookmarkticons.md
+- _posts/2018-10-24-project-thoughts.md
 - _posts/2018-11-28-bookmarkticons.md
 - _posts/2018-11-12-automation-and-representations.md
+- _posts/2018-12-05-bookmarkticon-updated.md
 - _posts/2018-10-31-i-agree.md
-- _posts/2018-10-24-project-thoughts.md
 - _posts/2018-10-14-black-box-internet-disposal.md
 - _posts/2018-09-06-hello-world.md
 - _posts/2018-09-07-thoughts-on-bad-writer-by-michael-mohammed-ahmad.md
 - _posts/2018-09-15-thoughts-on-forgot-your-password-by-aram-bartholl.md
-- _posts/2018-09-07-simulation-of-epidemic-spreading-in-scale-free-networks.md
 - _posts/2018-09-07-resolve-the-merge-conflicts-of-your-team.md
-- _posts/2018-09-07-how-to-kill-your-darlings-the-story-of-a-uocd-git-diagram.md
 - _posts/2018-09-07-lesson-learned-go-hunt-discrepancies-by-digging-deeper.md
-- _posts/2018-09-07-agent-based-simulation-of-state-formation-and-wars.md
 - _posts/2018-09-26-lost,-and-found.md
 - _posts/2018-09-26-Data-Phase-Transition.md
-- _posts/2018-12-11-bookmarks-made-out-of-bookmarkticons.md
-- _posts/2018-12-05-bookmarkticon-updated.md
