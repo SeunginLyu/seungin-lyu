@@ -1,15 +1,15 @@
 ---
 title: "Bookmarks\U0001F516 made out of Bookmarkticons"
-layout: post
+layout: single
 date: 2018-12-11 04:06:17 +0000
 comments: true
 
 ---
-My hunch for this project was bookmarks. Not the bookmarks we use to indicate the last page you read on a paper book but those that the list of shortcuts to websites on our web browsers. I have always been fascinated by the design efforts that go into creating favicons, and I envisioned an algorithm that would turn a person's bookmarks into a QR code / Identicon (from Github) looking images from a collage of favicons that are relevant to that specific person's bookmarks export. 
+My hunch for this project was bookmarks. Not the bookmarks we use to indicate the last page you read on a paper book but those that the list of shortcuts to websites on our web browsers. I have always been fascinated by the design efforts that go into creating favicons, and I envisioned an algorithm that would turn a person's bookmarks into a QR code / Identicon (from Github) looking images from a collage of favicons that are relevant to that specific person's bookmarks export.
 
 I wanted to do this project because random hash images like QR-Code and Identicons lack human personalities in that they do not encapsulate any personal traits, unique aspects, or interesting facts about the person they identify. I wanted to create an image that somewhat encapsulates the sensitive and subtle implication of bookmarks as a dataset because they tell a story about people's interests, internet habits, life-styles, and even sometimes more private information like political opinions. What's even more interesting is that people rarely get to see what other people have on their bookmarks list. What if people can share their bookmarks? What if they can do so without getting concerned about their privacy? What if we can build a culture and community around sharing bookmarks, as if they were holiday gifts?
 
-I came up with my own answers to these above questions by writing a python script that receives a bookmarks html export file (from any browser including Chrome, Firefox, IE but only tested on Chrome) that generates images so called Bookmarkticons. [Here](https://github.com/SeunginLyu/Bookmarkticon)'s the code if you want to create your own bookmarkticons without sharing them with me. Here's how the script roughly works. 
+I came up with my own answers to these above questions by writing a python script that receives a bookmarks html export file (from any browser including Chrome, Firefox, IE but only tested on Chrome) that generates images so called Bookmarkticons. [Here](https://github.com/SeunginLyu/Bookmarkticon)'s the code if you want to create your own bookmarkticons without sharing them with me. Here's how the script roughly works.
 
 1. Opens the html file
 2. Download favicons for each URL included in the bookmarks export (this takes about 3\~5 minutes)

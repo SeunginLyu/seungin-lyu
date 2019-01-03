@@ -1,6 +1,6 @@
 ---
 title: Bookmarkticons
-layout: post
+layout: single
 date: 2018-11-28 04:56:31 +0000
 comments: false
 

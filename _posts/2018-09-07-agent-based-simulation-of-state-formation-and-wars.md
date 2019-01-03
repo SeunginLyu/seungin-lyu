@@ -1,6 +1,6 @@
 ---
 title: Agent-Based Simulation of State Formation and Wars
-layout: post
+layout: single
 date: 2018-09-07 18:22:00 +0000
 comments: true
 

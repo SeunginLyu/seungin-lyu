@@ -1,6 +1,6 @@
 ---
 title: Forgot Your Password? (It's here)
-layout: post
+layout: single
 date: 2018-09-15 23:51:05 +0000
 comments: true
 

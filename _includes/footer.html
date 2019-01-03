@@ -1,14 +1,19 @@
-<footer class="footer">
-    <p>&copy; {{site.username}}</p>
-    <div class="header-icons">
-      <a aria-label="My Resume" target="_blank" href="https://drive.google.com/file/d/14LnhHQ7U8QJlfP4LiS3YBTIYyh2cn_wc/view?usp=sharing">
-        <i class="icon fa fa-file-text"></i>
-      </a>
-      <a aria-label="Send email" href="mailto:slyu@olin.edu"><i class="icon fa fa-envelope"></i></a>
-      <a aria-label="My LinkedIn" target="_blank" href="https://www.linkedin.com/feed/?trk=nav_logo"><i class="icon fa fa-linkedin" aria-hidden="true"></i></a>
-      <a aria-label="My Github" target="_blank" href="https://github.com/SeunginLyu"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>
-    </div>
-</footer>
-<script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-<script src="{{ "/assets/js/sweet-scroll.min.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>

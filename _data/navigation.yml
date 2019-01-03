@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Blog"
+    url: /year-archive/
