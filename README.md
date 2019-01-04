@@ -5,5 +5,5 @@ This is my personal blog which includes my bio, projects and random scribbly tho
 # Credits to..
 
  - Jekyll Theme : Minimal Mistakes
- - Comments : Staciman
+ - Comments : Staticman
  - CMS : Forestry.io
