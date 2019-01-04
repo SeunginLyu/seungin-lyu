@@ -11,7 +11,7 @@ fields:
 - type: text
   name: layout
   label: layout
-  default: post
+  default: single
   hidden: true
   config:
     required: true
@@ -19,6 +19,7 @@ fields:
   label: comments
   name: comments
   hidden: false
+- type: text
 pages:
 - _posts/2018-09-07-how-to-kill-your-darlings-the-story-of-a-uocd-git-diagram.md
 - _posts/2018-09-07-simulation-of-epidemic-spreading-in-scale-free-networks.md
