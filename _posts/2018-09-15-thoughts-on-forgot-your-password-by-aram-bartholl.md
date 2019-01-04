@@ -3,7 +3,8 @@ title: Forgot Your Password? (It's here)
 layout: single
 date: 2018-09-15 23:51:05 +0000
 comments: true
-
+header:
+  teaser:https://arambartholl.com/wwwppp/wp-content/uploads/2018/03/aram_bartholl_fogot_your_password_2013_04-1000x667.jpg " Forgot Your Password? by Aram Bartholl"
 ---
 ![https://arambartholl.com/forgot-your-password/](https://arambartholl.com/wwwppp/wp-content/uploads/2018/03/aram_bartholl_fogot_your_password_2013_04-1000x667.jpg " Forgot Your Password? by Aram Bartholl")
 

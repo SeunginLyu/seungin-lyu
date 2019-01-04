@@ -23,7 +23,7 @@ description              : "Seungin's Tech Blog Full of Creative and Scrribly Id
 url                      : "https://seungin-lyu.com"
 baseurl                  : "/"
 repository               : "SeunginLyu/https://github.com/SeunginLyu/seungin-lyu.web"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/500x300.png"
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 180
 comments:

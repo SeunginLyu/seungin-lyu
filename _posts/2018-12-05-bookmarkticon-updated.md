@@ -3,7 +3,8 @@ title: Bookmarkticon Updated!
 layout: single
 date: 2018-12-05 00:21:57 +0000
 comments: false
-
+header:
+  teaser: /uploads/seungin.png
 ---
 Here are some of the response I got from the previous feedback session.
 

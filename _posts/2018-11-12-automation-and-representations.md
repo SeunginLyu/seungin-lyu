@@ -3,7 +3,8 @@ title: 'Algorithmic Identification : Bookmarks and Identicon..?'
 layout: single
 date: 2018-11-12 01:11:54 +0000
 comments: false
-
+header:
+  teaser: /uploads/IMG_3596.png
 ---
 * Upturn's [_Automation & The Quantified Society_](https://mimionuoha.github.io/classmaterials/upturn-abridged.pdf)
 * [The odd reality of life under China's all-seeing credit score system](https://www.wired.co.uk/article/china-social-credit)

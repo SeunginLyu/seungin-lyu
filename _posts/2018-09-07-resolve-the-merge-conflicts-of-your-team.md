@@ -3,7 +3,8 @@ title: RESOLVE THE MERGE CONFLICTS OF YOUR TEAM
 layout: single
 date: 2018-09-07 18:18:57 +0000
 comments: true
-
+header:
+  teaser: https://ghanatalksbusiness.com/wp-content/uploads/2017/12/shutterstock_350734256-e1486047320756-632x468.jpg
 ---
 ![](https://ghanatalksbusiness.com/wp-content/uploads/2017/12/shutterstock_350734256-e1486047320756-632x468.jpg)
 

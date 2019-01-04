@@ -3,7 +3,8 @@ title: 'Black Box Internet : Disposal'
 layout: single
 date: 2018-10-14 00:58:56 +0000
 comments: false
-
+header:
+  teaser: https://s3.amazonaws.com/ezoic-site-content/blog/wp-content/uploads/2017/07/20085706/Screen_Shot_2013_04_03_at_12.36.55_PM.png
 ---
 ![](https://s3.amazonaws.com/ezoic-site-content/blog/wp-content/uploads/2017/07/20085706/Screen_Shot_2013_04_03_at_12.36.55_PM.png)
 

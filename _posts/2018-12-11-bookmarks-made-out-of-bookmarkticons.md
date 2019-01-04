@@ -3,6 +3,8 @@ title: "Bookmarks\U0001F516 made out of Bookmarkticons"
 layout: single
 date: 2018-12-11 04:06:17 +0000
 comments: true
+header:
+  teaser: /uploads/IMG_3734.png
 
 ---
 My hunch for this project was bookmarks. Not the bookmarks we use to indicate the last page you read on a paper book but those that the list of shortcuts to websites on our web browsers. I have always been fascinated by the design efforts that go into creating favicons, and I envisioned an algorithm that would turn a person's bookmarks into a QR code / Identicon (from Github) looking images from a collage of favicons that are relevant to that specific person's bookmarks export.

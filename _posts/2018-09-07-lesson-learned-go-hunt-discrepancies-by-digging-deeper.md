@@ -3,7 +3,8 @@ title: 'LESSON LEARNED: GO HUNT DISCREPANCIES BY DIGGING DEEPER!'
 layout: single
 date: 2018-09-07 18:16:20 +0000
 comments: true
-
+header:
+  teaser: https://www.conservationmagazine.org/wp-content/uploads/2013/05/dig-deeper.jpg
 ---
 ![Image from Dig Deeper by Douglas Fox, http://www.conservationmagazine.org/2008/07/dig-deeper/](https://www.conservationmagazine.org/wp-content/uploads/2013/05/dig-deeper.jpg)
 
