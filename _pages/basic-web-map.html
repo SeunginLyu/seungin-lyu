@@ -1,0 +1,47 @@
+<!--  The most basic web map. -->
+<!DOCTYPE html>
+<!-- Leaflet Guide: http://leafletjs.com/examples/quick-start/ -->
+<html lang="en">
+
+<head>
+    <style>
+    /* Gives us a map that takes up the full webpage */
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        html,
+        #map {
+            position: absolute;
+            top: 0;
+            bottom:0;
+            width: 100%;
+        }
+
+    </style>
+    <title> Seungin's Home </title>
+    <!-- Leaflet stylesheet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="" />
+    <!-- Leaflet javascript  -->
+    <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin=""></script>
+</head>
+
+<body>
+    <div id="map"> </div>
+    <script>
+    var map = L.map('map').setView([35.0874838,128.8957984], 14);
+
+    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+        maxZoom: 18,
+        id: 'mapbox.streets',
+        accessToken: 'pk.eyJ1IjoibHl1c2lub2VsIiwiYSI6ImNqcmh4YWVrbTAzNzk0NXBvNHcwOWE4bHoifQ.T9RFI3h5CCgeSQLOZInBeg'
+    }).addTo(map);
+
+    var myHomeMarker = L.marker([35.0874938,128.8977984]).addTo(map);
+    myHomeMarker.bindPopup("<b>Seungin's home</b><br>Hello World").openPopup();
+    </script>
+</body>
+
+</html>
