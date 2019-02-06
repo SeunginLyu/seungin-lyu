@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8' />
+  <title>Korean Demilitarized Zone</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <title> Vector Map </title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+  <script src='https://api.mapbox.com/mapbox-gl-js/v0.52.0/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v0.52.0/mapbox-gl.css' rel='stylesheet' />
+  <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-compare/v0.1.0/mapbox-gl-compare.js'></script>
+  <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-compare/v0.1.0/mapbox-gl-compare.css' type='text/css' />
+
+</head>
+
+<body>
+  <style>
+    body {
+      overflow: hidden;
+    }
+
+    body * {
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+
+    .map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+  <div id='before' class='map'></div>
+  <div id='after' class='map'></div>
+
+  <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoibHl1c2lub2VsIiwiYSI6ImNqcmh4YWVrbTAzNzk0NXBvNHcwOWE4bHoifQ.T9RFI3h5CCgeSQLOZInBeg';
+
+    var beforeMap = new mapboxgl.Map({
+      container: 'before', // you need this on every map
+      style: 'mapbox://styles/mapbox/navigation-guidance-day-v2', // you also need this
+      zoom: 11,
+      center: [126.5984926, 37.9135042]
+    });
+    var afterMap = new mapboxgl.Map({
+      container: 'after', // you need this on every map
+      style: 'mapbox://styles/mapbox/satellite-v9', // you also need this
+      zoom: 11,
+      center: [126.5984926, 37.9135042]
+    });
+    var map = new mapboxgl.Compare(beforeMap, afterMap, {
+      // Set this to enable comparing two maps by mouse movement:
+      // mousemove: true
+    });
+    afterMap.on("load", ()=>{
+      afterMap.addSource('dmz', {
+        type: 'geojson',
+        data: './data/dmz.geojson'
+      });
+      afterMap.addLayer({
+        "id": "lines",
+        "type": "line",
+        "source": "dmz",
+        "layout": {
+            "line-join": "round",
+            "line-cap": "round"
+        },
+        "paint": {
+            "line-color": ['get', 'stroke'],
+            "line-width": ['get', 'stroke-width']
+        },
+        "filter": ["==", "$type", "LineString"]
+      });
+      afterMap.addLayer({
+        "id": "polygons",
+        "type": "fill",
+        "source": "dmz",
+        "layout": {},
+        "paint": {
+            "fill-color": ['get', 'fill'],
+            "fill-opacity": ['get', 'fill-opacity']
+        },
+        "filter": ["==", "$type", "Polygon"]
+      });
+      afterMap.addLayer({
+        "id": "points",
+        "type": "symbol",
+        "source": "dmz",
+        "layout": {
+          "icon-image": ['get', 'marker-symbol']
+        },
+        "filter": ["==", "$type", "Point"]
+      });
+    })
+
+  </script>
+</body>
+
+</html>
