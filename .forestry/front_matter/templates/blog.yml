@@ -21,6 +21,7 @@ fields:
   hidden: false
 - type: text
 pages:
+- _posts/impossible-maps-spaces-people-and-counter-mapping.md
 - _posts/impossible-maps-insights-into-communitry-group-responses.md
 - _posts/2019-02-06-impossible-maps-the-power-of-labels.md
 - _posts/hello-world-impossible-maps.md
