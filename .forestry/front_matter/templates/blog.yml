@@ -20,6 +20,7 @@ fields:
   hidden: false
 - type: text
 pages:
+- _posts/impossible-maps-soundscape.md
 - _posts/impossible-maps-project-ideas.md
 - _posts/impossible-maps-spaces-people-and-counter-mapping.md
 - _posts/impossible-maps-insights-into-communitry-group-responses.md
