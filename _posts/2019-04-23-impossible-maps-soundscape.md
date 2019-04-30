@@ -12,17 +12,19 @@ date: '2019-04-23T01:07:35+00:00'
 
 #### What is this?
 
-A MBTA-styled sounds stations map of Boston's Latin Quarter 
+A MBTA-styled soundscape of Boston's Latin Quarter.  
+Plug into the sounds.   
+Do you hear the Latin Square?
 
-#### Why Soundscape?
+#### We are...
 
 * Re-imagining Boston's Latin Square
 * Introducing a creative interface to a map - "Plug in to the sounds"
-* A question for the community and the auidence,   
+* Throwing a question at the community and the auidence,   
   "**_how does your soundscape look like?_**"
 
-#### Process?
-
-#### And Now What?
+#### Process
 
 #### Resources
+
+Code : git
