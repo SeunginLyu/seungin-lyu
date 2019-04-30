@@ -6,8 +6,6 @@ undefined: ''
 date: '2019-04-23T01:07:35+00:00'
 
 ---
-# Soundscape : Boston's Latin Quarter 
-
 ### By Adam Novotny and Seungin Lyu
 
 ### _(in conversation with Isabella Stewart Gardner Musuem & Hyde Square Task Force)_
