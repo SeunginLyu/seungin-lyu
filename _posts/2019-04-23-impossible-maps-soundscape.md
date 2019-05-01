@@ -45,7 +45,7 @@ Rapid Prototyping - "_Plug into the Sounds"_
 
 Get Feedback & Iterate
 
-![](/uploads/20190424_095703.jpg)
+![](/uploads/20190424_121109.jpg)
 
 Done!
 
