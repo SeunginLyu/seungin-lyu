@@ -5,11 +5,15 @@ comments: false
 undefined: ''
 
 ---
+## WCAG AA Support
+
 I worked on my [personal blog](https://seungin-lyu.com) to make it compliant with [WCAG AA accessibility standard](https://www.w3.org/TR/WCAG20/). I did an accessibility audit of my website using the [WAVE](https://wave.webaim.org/) (web accessibility evaluation tool). I recommend installing the WAVE browser extension which supports both Chrome and Firefox. It's a really nice tool that identifies accessibility flaws on a website and has solutions on how to fix them. With its support, I successfully eliminated all the major errors including the contrast errors, and my website is now (according to WAVE) compliant with WCAG AA standard. But this does not guarantee that it is fully accessible to users who are using keyboard-only interface or screen readers.
 
 ![Home page passing WAVE accessibilty audit](/uploads/Screen Shot 2019-05-04 at 12.06.16 PM.png)
 
 ![Project page passing WAVE accessibilty audit](/uploads/Screen Shot 2019-05-04 at 12.06.34 PM.png)
+
+## Initial Goals
 
 This is the list of changes that I wanted to make in my initial goal.
 
@@ -19,6 +23,8 @@ This is the list of changes that I wanted to make in my initial goal.
 * Update links so that they make sense (unlike Here)
 * Add skip link to the main content
 * Remove on hover JS events that don't quite work at an keyboard-only env
+
+## Outcome
 
 And here is a list of what I've actually accomplished. Please take a look at my [pull request](https://github.com/SeunginLyu/seungin-lyu/pull/1) if you want to see the details.
 
@@ -37,5 +43,7 @@ And here is a list of what I've actually accomplished. Please take a look at my 
 * Add alt texts for project images
 
   This was interesting because writing a good alt text is surprisingly difficult. I learned that including descriptions like "Image of Seungin" is a direct violation of the standard because an alt text should have what the image content is about and not what it is on a semantics level.
+
+## Reflection
 
 Overall, I was very happy with my progress towards making my blog more accessible. But I learned that there is a lot more to be done. I'm glad that I'm aware of such challenges and the subtle implications of some HTML and CSS snippets that I was using without deliberation.
