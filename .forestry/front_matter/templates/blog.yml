@@ -20,6 +20,7 @@ fields:
   hidden: false
 - type: text
 pages:
+- _posts/technology-accessibility-design-adding-accessibility-to-my-personal-blog.md
 - _posts/2019-04-23-impossible-maps-soundscape.md
 - _posts/impossible-maps-project-ideas.md
 - _posts/impossible-maps-spaces-people-and-counter-mapping.md
