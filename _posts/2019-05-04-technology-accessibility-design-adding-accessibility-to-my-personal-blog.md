@@ -5,7 +5,7 @@ comments: false
 undefined: ''
 
 ---
-I worked on my [personal blog](https://seungin-lyu.com) to make it compliant with [WCAG AA accessibility standard](https://www.w3.org/TR/WCAG20/). I did an accessibility audit of my website using the [WAVE](https://wave.webaim.org/) (web accessibility evaluation tool). I recommend using install the WAVE browser extension which supports both Chrome and Firefox. It's a really nice tool that identifies accessibility flaws on a website and has solutions on how to fix them. With its support, I successfully eliminated all the major errors including the contrast errors, and my website is now (according to WAVE) compliant with WCAG AA standard. But this does not guarantee that it is fully accessible to users who are using keyboard-only interface or screen readers.
+I worked on my [personal blog](https://seungin-lyu.com) to make it compliant with [WCAG AA accessibility standard](https://www.w3.org/TR/WCAG20/). I did an accessibility audit of my website using the [WAVE](https://wave.webaim.org/) (web accessibility evaluation tool). I recommend installing the WAVE browser extension which supports both Chrome and Firefox. It's a really nice tool that identifies accessibility flaws on a website and has solutions on how to fix them. With its support, I successfully eliminated all the major errors including the contrast errors, and my website is now (according to WAVE) compliant with WCAG AA standard. But this does not guarantee that it is fully accessible to users who are using keyboard-only interface or screen readers.
 
 ![Home page passing WAVE accessibilty audit](/uploads/Screen Shot 2019-05-04 at 12.06.16 PM.png)
 
@@ -24,7 +24,7 @@ And here is a list of what I've actually accomplished. Please take a look at my 
 
 * Changed the theme to have appropriate color contrast
 
-  I'm using a Jekyll theme called minimal-mistakes. It supported a couple of color themes and it came with a 'contrast' theme which was able to pass most of the WAVE color contrast standards. But it still had a few subtle color contrast errors that I had to fix manually by inspecting the CSS. In the process, I learned that **blue** is a good color to use if you are aiming for zero color contrast errors.
+  I'm using a Jekyll theme called minimal-mistakes. It supports a couple of color themes and it comes with a 'contrast' theme which passes most of the WAVE color contrast standards. But it still has a few subtle color contrast errors that I had to fix manually by inspecting the CSS. In the process, I learned that **blue** text on a white background is a good color combination to use if you are aiming for zero color contrast errors.
 * Update heading structures for home, project page
 
   My blog was missing a few h1 headers and I had to update my layouts to have the appropriate heading levels. I could not update the broken headers on my blog posts (which use markdown headers) because there were sadly, so many of them. Fixing those headers is definitely one of my future moves with this blog.
