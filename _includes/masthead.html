@@ -23,10 +23,10 @@
           </svg>
         </button>
         {% endif %}
-        <button class="greedy-nav__toggle hidden" type="button">
+        {% comment %} <button class="greedy-nav__toggle hidden" type="button"> {% endcomment %}
           {% comment %} <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span> {% endcomment %}
-          <div class="navicon"></div>
-        </button>
+          {% comment %} <div class="navicon"></div> {% endcomment %}
+        {% comment %} </button> {% endcomment %}
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
