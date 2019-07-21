@@ -104,9 +104,9 @@ analytics:
 # Site Author
 author:
   name             : "Seungin Lyu"
-  avatar           : "/assets/images/bio-photo2.jpg"
-  bio              : "Hi! I'm an engineering student with interests in user-oriented design, software engineering, and creative approaches to emerging tech."
-  location         : "Incoming PM intern @ Microsoft"
+  avatar           : "/assets/images/bio-photo3.jpg"
+  bio              : "I’m a user-obsessed engineering student with interests in creative approaches to emerging tech and accessibility."
+  location         : "Program Manager Intern @ Microsoft"
   email            : "slyu@olin.edu"
   links:
     - label: "Resume"
