@@ -42,14 +42,6 @@ feature_row5:
     url: "https://github.com/olinlibrary/futureboard"
     btn_label: "Visit Project"
     btn_class: "btn--primary"
-feature_row6:
-  - image_path: http://poe.olin.edu/2017/mannytheman/images/System.png
-    alt: "Manny, a robot equipped with various servo motors that control its joints"
-    title: "MannyTheMan (MTM)"
-    excerpt: A sculpture robot Manny that mimics human motion in real-time with Microsoft Kinect SDK.
-    url: "http://poe.olin.edu/2017/mannytheman/index.html"
-    btn_label: "Visit Project"
-    btn_class: "btn--primary"
 
 ---
 # Featured Projects
@@ -58,4 +50,3 @@ feature_row6:
 {% include feature_row id="feature_row3" type="left" %}
 {% include feature_row id="feature_row4" type="left" %}
 {% include feature_row id="feature_row5" type="left" %}
-{% include feature_row id="feature_row6" type="left" %}
