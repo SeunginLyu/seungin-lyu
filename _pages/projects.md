@@ -24,6 +24,7 @@ feature_row3:
     alt: "GIF Animation of WorldPSC.NET, demoing the frontend UI of the web application."
     title: "WorldPSC.NET"
     excerpt: An online community equipped with unique search system for PSC (Port State Control) documents, regulations, MOUs.
+    url: "https://worldpsc.net"
     btn_label: "Visit Project"
     btn_class: "btn--primary"
 feature_row4:
@@ -45,8 +46,8 @@ feature_row5:
 
 ---
 # Featured Projects
-{% include video_row id="video_row1" type="left" %}
-{% include video_row id="video_row2" type="left" %}
+{% include video_row id="feature_row1" type="left" %}
+{% include video_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row3" type="left" %}
 {% include feature_row id="feature_row4" type="left" %}
 {% include feature_row id="feature_row5" type="left" %}
