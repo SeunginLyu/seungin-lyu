@@ -8,18 +8,13 @@
 
   {% for f in feature_row %}
 
-    {% if f.url contains "://" %}
-      {% capture f_url %}{{ f.url }}{% endcapture %}
-    {% else %}
-      {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
-    {% endif %}
-
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
-        {% if f.video %}
-         {{f.video}}
-        {% endif %}
-
+        <div class="archive__item-teaser">
+          {% if f.video %}
+          {{f.video}}
+          {% endif %}
+        </div>
         <div class="archive__item-body">
           {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
