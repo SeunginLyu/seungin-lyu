@@ -7,7 +7,7 @@ feature_row1:
   - video: <iframe width="502" height="350" src="https://www.youtube.com/embed/Br-ILkTh-ZI"></iframe>
     alt: "VIA (virtual Intepretation of Areas) demo video"
     title: "AI + Inclusion: The Future of City Navigation"
-    excerpt: Technology is growing faster than we have ever seen, but it is not always accessible to people in overlooked communities, such as people who are blind or have low vision. Olin College Microsoft SCOPE team leveraged open data sets and Microsoft Cognitive Services to address some of the challenges these individuals face when navigating in a city. [VIA (Virtual Interpretation of Areas)](http://via.city) is a desktop application built for and with the blind and visually impaired community. Before visiting areas in person, users can virtually explore and get information relevant to them.
+    excerpt: Technology is growing faster than we have ever seen, but it is not always accessible to people in overlooked communities, such as people who are blind or have low vision. Sponsored by [Microsoft AI for Acessibility grants](https://www.microsoft.com/en-us/ai/ai-for-accessibility-projects?activetab=pivot1%3aprimaryr2), [Olin College Microsoft SCOPE team](http://www.olin.edu/collaborate/scope/projects/2019_20/Microsoft) leveraged open data sets and Microsoft Azure Cognitive Services to address some of the challenges these individuals face when navigating in a city. [VIA (Virtual Interpretation of Areas)](http://via.city) is a desktop application built for and with the blind and visually impaired community. Before visiting areas in person, users can virtually explore and get information relevant to them.
     url: "http://via.city"
     btn_label: "Visit Project"
 
