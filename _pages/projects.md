@@ -34,7 +34,7 @@ feature_row4:
     excerpt: An online community for preschool teachers to share ideas and custom designs for physical Blox platform which empowers preschool teachers to build and design custom immersive learning space for kids.
     url: "https://drive.google.com/open?id=1t4hM3FWTiNjA3BPXFUXVIIoo2r4c5IYx"
     btn_label: "Visit Project"
-
+    btn_class: "btn--primary"
 feature_row5:
   - image_path: /assets/images/futureboard.GIF
     alt: "Seungin demonstrating how to use the Futureboard"
@@ -42,7 +42,7 @@ feature_row5:
     excerpt: A digital signage platform for sharing video and other media, supplemented by information about events happening on campus.
     url: "https://github.com/olinlibrary/futureboard"
     btn_label: "Visit Project"
-
+    btn_class: "btn--primary"
 
 ---
 # Featured Projects
