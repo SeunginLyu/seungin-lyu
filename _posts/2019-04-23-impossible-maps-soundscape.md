@@ -6,19 +6,15 @@ undefined: ''
 date: '2019-04-23T01:07:35+00:00'
 
 ---
-### By Adam Novotny and Seungin Lyu
+### What is this?
 
 ### _(in conversation with Isabella Stewart Gardner Musuem & Hyde Square Task Force)_
-
-![](/uploads/v1.3.png)
-
-\[Gif of Final Piece to be added\]
-
-### What is this?
 
 A MBTA-styled soundscape of Boston's Latin Quarter.  
 Plug into the sounds.  
 Do you sense the Latin Quarter?
+
+![](/uploads/v1.3.png)
 
 ### We are...
 
