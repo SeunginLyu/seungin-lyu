@@ -4,15 +4,15 @@ layout: splash
 permalink: /projects/
 
 feature_row1:
-  - video: <iframe width="502" height="350" src="https://www.youtube.com/embed/Br-ILkTh-ZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  - video: <a href="https://www.youtube.com/watch?v=Br-ILkTh-ZI" target="_blank"><iframe width="502" height="350" src="https://www.youtube.com/embed/Br-ILkTh-ZI"></iframe></a>
     alt: "VIA (virtual Intepretation of Areas) demo video"
     title: "AI + Inclusion: The Future of City Navigation"
-    excerpt: Technology is growing faster than we have ever seen, but it is not always accessible to people in overlooked communities, such as people who are blind or have low vision. Olin College Microsoft SCOPE team leveraged open data sets and Microsoft Cognitive Services to address some of the challenges these individuals face when navigating in a city. The team designed a new application for and with the blind and visually impaired community, allowing users to explore areas virtually and get information relevant to them, before visiting in person.
+    excerpt: Technology is growing faster than we have ever seen, but it is not always accessible to people in overlooked communities, such as people who are blind or have low vision. Olin College Microsoft SCOPE team leveraged open data sets and Microsoft Cognitive Services to address some of the challenges these individuals face when navigating in a city. VIA (Virtual Interpretation of Areas) is a new desktop application for and with the blind and visually impaired (BVI) community. Before visiting areas in person, users can virtually explore and get information relevant to them.
     url: "http://via.city"
     btn_label: "Visit Project"
     btn_class: "btn--primary"
 feature_row2:
-  - video: <iframe width="502" height="350" src="https://www.youtube.com/embed/v55HPy16Bnw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  - video: <a href="https://www.youtube.com/watch?v=v55HPy16Bnw" target="_blank"><iframe width="502" height="350" src="https://www.youtube.com/embed/v55HPy16Bnw"></iframe></a>
     alt: "Musical Cane Game"
     title: "Musical Cane Game"
     excerpt: An orientation and mobility learning game that empoweres an O&M instructor by motivating students with sounds, music, and beep noises during cane tutorials. This project has been initiated and maintained by Olin College professor Paul Ruvolo's students (Occam Lab, TAD). Orientation and Mobility refers to a set of skills that consists of knowing where you are in an environment, understanding how to navigate to a place of interest, and how to move about safely within an environment. While these skills are vital to the independence of students who are picking up their cane skills, their motivation to practice these skills is often low. Through the use of the concept of gamified learning, we made this essential process more engaging and effective for students.
@@ -46,7 +46,7 @@ feature_row5:
 
 ---
 # Featured Projects
-<br>
+
 {% include video_row id="feature_row1" type="left" %}
 {% include video_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row3" type="left" %}
