@@ -15,7 +15,7 @@ feature_row2:
   - video: <iframe width="502" height="350" src="https://www.youtube.com/embed/v55HPy16Bnw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     alt: "Musical Cane Game"
     title: "Musical Cane Game"
-    excerpt: An orientation and mobility learning game that empoweres an O&M instructor by motivating students with sounds, music, and beep noises during cane tutorials. This project has been initiated and maintained by Paul's students (Occam Lab, TAD). Eric Jerman from Perkins School for the Blind is our primary partner for this project. He works with students at Perkins School for the Blind to help them develop their orientation and mobility skills. Orientation and Mobility refers to a set of skills that consists of knowing where you are in an environment, understanding how to navigate to a place of interest, and how to move about safely within an environment.While these skills are vital to the independence of Eric’s students, their motivation to practice these skills is often low. In contrast, other elements of the Perkins curriculum (e.g., music therapy) tend to be met with more excitement and commitment. Eric is interested in developing strategies for making his sessions more engaging and effective through the use of the concept of gamified learning, whereby elements of game design are brought to an educational context.
+    excerpt: An orientation and mobility learning game that empoweres an O&M instructor by motivating students with sounds, music, and beep noises during cane tutorials. This project has been initiated and maintained by Olin College professor Paul Ruvolo's students (Occam Lab, TAD). Orientation and Mobility refers to a set of skills that consists of knowing where you are in an environment, understanding how to navigate to a place of interest, and how to move about safely within an environment. While these skills are vital to the independence of students who are picking up their cane skills, their motivation to practice these skills is often low. Through the use of the concept of gamified learning, we made this essential process more engaging and effective for students.
     url: "https://github.com/occamLab/dongle_cane_ios_game"
     btn_label: "Visit Project"
     btn_class: "btn--primary"
@@ -46,6 +46,7 @@ feature_row5:
 
 ---
 # Featured Projects
+<br>
 {% include video_row id="feature_row1" type="left" %}
 {% include video_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row3" type="left" %}
