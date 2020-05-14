@@ -7,6 +7,11 @@
 <div class="feature__wrapper">
 
   {% for f in feature_row %}
+       {% if f.url contains "://" %}
+      {% capture f_url %}{{ f.url }}{% endcapture %}
+    {% else %}
+      {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
+    {% endif %}
 
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
@@ -27,7 +32,7 @@
           {% endif %}
 
           {% if f.url %}
-            <h3><a href="{{ f.url }}>{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></h3>
+            <h3><a href="{{ f_url }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></h3>
           {% endif %}
         </div>
       </div>
