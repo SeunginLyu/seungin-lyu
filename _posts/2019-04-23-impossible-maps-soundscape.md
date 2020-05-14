@@ -47,7 +47,13 @@ Get Feedback & Iterate
 
 ![](/uploads/20190424_121109.jpg)
 
-Done!
+Done! (Presentation @ [Isabella Stewart Gardner Museum](https://www.gardnermuseum.org/experience/exhibition/big-plans/map-this))
+
+![](/uploads/20190501_101423.jpg)
+
+![](/uploads/20190508_104358.jpg)
+
+![](/uploads/20190508_121905.jpg)
 
 ### Resources
 
