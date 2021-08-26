@@ -1,0 +1,28 @@
+---
+layout: single
+title: What does a PM do?
+comments: false
+undefined: ''
+
+---
+I found a beautiful yet seasoned illustration of what PMs (Product Manager) do in large tech companies from Blind. Credits to msquirrle on Blind (Product Management) group.
+
+> "In a large org, engineers don't know the half of politics that happen before the product can make one step in the right direction. Even in companies that are product-driven, there are trade-offs to make between what's best for users and what's best for business.
+>
+> Let's say a company decides that it wants to enhance its video conferencing app with a grid layout. Why is this a good idea? Do we want to do this to get on parity with competitors? Which segment of users will benefit from this? How will this increase our revenue? Is the revenue worth the engineering costs? Somebody actually needs to think of all these questions, and then come up with the actual data to prove that it's a good idea to do this. And then you have to figure out how you're going to measure that your feature is successful, because if you don't know your metrics before building it, you're setting your product up to fail before it's built.
+>
+> Then once you're convinced you should do it, you have to bring all the other teams onboard. If you're a B2B company, you have to convince the Sales org that this feature will increase their sales numbers, or they won't help you sell it, so you won't make your metrics and your product will die. If you're building something completely new in a new market, you have to convince Marketing that it will play into the long-term customer acquisition strategy and they should help you get it off the ground, otherwise nobody on the internet will find your product after you've built it.
+>
+> This is just 2 examples, but imagine you have like 10 different teams that optimize for different success metrics, and you're trying to create something new that they all have to agree with. That's the part that engineering doesn't even hear about.
+>
+> When Eng gets involved is when the path is cleared up for them to build, and then the PM looks like they're just basically sitting there watching. That's the result of a clear product vision, communicated and broken down for Eng to go and build. There's nothing for the PM to do, cause they've thought of all these questions beforehand, and laid them out in the requirements. They will often sit in and answer questions and provide context about the user and the why of features. So while it looks like they didn't do much, it's cause they've done their homework ahead of time, and know what's a big deal to sweat over, and what isn't.
+>
+> And when there are roadmap changes, because now we need to add some extra feature to meet X goal, because a VP threw a fit over it, the PM is the one worrying about what feature to drop to make that happen, and which users to disappoint, and how the new feature will affect the existing features, and the success numbers.
+>
+> Leave an engineer alone to make those trade-offs and deal with the politics and they'll rip their hair out. They'll just complain nothing ever gets done in this company and things change all the time, or that they can't get the resources (btw "resources" allocated to a project don't just happen, the PM fights for your team to be dedicated to 1 product so their attention isn't scattered), or that their projects always get killed. Because it's damn hard to figure out what to build from scratch, build a vision for success, back it up with numbers, and convince 10 other teams to do it with you.
+>
+> You all know this. How many of us have apps that we are building on the side that just sit there, unused? It's not because they're bad ideas or we're to busy to build them. It's because we don't know where they're supposed to go, and don't have feedback from the real world indicate success or failure, and point to areas of improvement, or figure out how other ppl would use them. Lack of roadmap and PM means engineering teams will spin their wheels and build things that can't meet user needs, or can't be served up to the users that need them in the way that makes sense to them, or build things they believe in and look promising, but have no idea how to prove that they can grow and that it's a good idea to invest more time/money to build them further.
+>
+> PM make it so that engineers have clear things to build, uncluttered by everything that's happening in the real world. So that "the user" is understood but the engineering team as a unified, logical concept, while in reality "the users" are a billion people with unique needs. So that "the business" wants X is a coherent story, as opposed to "Alice is really pushing for this feature, but Bob who's more important doesn't agree with it, so it could go either way, but data from our current users supports building it, so we need to build a stronger case so Bob agrees and gives us the extra budget to build feature XYZ earlier because it's a huge dependency".
+>
+> And to the engineers reading this - we usually don't tell you what we do, because "it depends", and because on some level, our own heads spin thinking of everything we need to handle so you can be left alone and out of never ending meetings about thing that may or may not change the product direction. We handle literally everything else, and get shit on by every team because there's no way to make every single stakeholder happy, and take the blame and deal with fallouts of decisions and oversights. And it's all so that you can stay focused and motivated, and feel like the heroes. So yeah, you're welcome."
